@@ -2,5 +2,5 @@
 2222upd
 3333asd
 4444test
-5555branchi
-6666localdev
+5555branch
+6666origindev
